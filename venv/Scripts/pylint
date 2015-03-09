@@ -1,0 +1,3 @@
+#!C:\Users\Admin\Downloads\flask-skeleton-master\venv\Scripts\python.exe
+from pylint import run_pylint
+run_pylint()
